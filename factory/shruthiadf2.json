@@ -1,0 +1,9 @@
+{
+	"name": "shruthiadf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6517edb6-e361-4119-a213-8d616fbe3dd2",
+		"tenantId": "1803d56a-ee64-4b5c-8201-d6246370cb08"
+	}
+}
